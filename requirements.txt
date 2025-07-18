@@ -1,0 +1,4 @@
+requests==2.26.0
+ipykernel==6.4.1
+llama-cpp-python==0.3.10
+huggingface-hub==0.10.1
